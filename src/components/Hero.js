@@ -23,7 +23,7 @@ function Hero() {
 
         <div className="hero-info">
           <div className="hero-info-card">
-            <strong>2+</strong>
+            <strong>3+</strong>
             <span>Projetos de portfólio</span>
           </div>
 
