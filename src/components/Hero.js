@@ -2,7 +2,7 @@ function Hero() {
   return (
     <section className="hero">
       <div className="container hero-content">
-        <p className="hero-tag">Portfólio Front-end • Next.js</p>
+        <p className="hero-tag">Portfólio • Next.js</p>
 
         <h1>Aprendendo, construindo e evoluindo como desenvolvedor.</h1>
 
@@ -23,18 +23,18 @@ function Hero() {
 
         <div className="hero-info">
           <div className="hero-info-card">
-            <strong>3+</strong>
-            <span>Projetos de portfólio</span>
+            <strong>Análise Dev. Sistemas</strong>
+            <span>PUC Minas</span>
           </div>
 
           <div className="hero-info-card">
-            <strong>Front-end</strong>
+            <strong>Desenvolvimento Web</strong>
             <span>Foco principal atual</span>
           </div>
 
           <div className="hero-info-card">
-            <strong>ADS</strong>
-            <span>PUC Minas</span>
+            <strong>3+</strong>
+            <span>Projetos de portfólio</span>
           </div>
         </div>
       </div>

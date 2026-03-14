@@ -3,8 +3,8 @@ function Projects() {
     {
       title: "TaskFlow",
       description:
-        "Aplicação de lista de tarefas desenvolvida com React, com busca, prioridade, filtros, localStorage e deploy na Vercel.",
-        highlight: "ToDoList React",
+        "Aplicação de lista de tarefas desenvolvida com React, com busca, prioridade, filtros, localStorage e deploy no Vercel.",
+      highlight: "ToDoList React",
       tech: "React, JavaScript, Vite, CSS",
       github: "https://github.com/smaatheus/TaskFlow-React.git",
       demo: "https://todo-react-kohl-beta.vercel.app/",
@@ -13,7 +13,7 @@ function Projects() {
       title: "LandingPage com Gestão de Estoque",
       description:
         "Projeto com foco em gerenciamento de produtos e estoque, com interface administrativa e integração com lógica de back-end.",
-        highlight: "Admin Estoque",
+      highlight: "Admin Estoque",
       tech: "JavaScript, Node.js, HTML, CSS",
       github: "https://github.com/smaatheus/Product-LandingPage.git",
       demo: "https://product-landingpage-blue.vercel.app/",
@@ -22,8 +22,8 @@ function Projects() {
       title: "Página de Turismo em BH",
       description:
         "Página de turismo com foco em mostrar os melhores pontos turisticos de Belo Horizonte.",
-        highlight: "Turismo BH",
-      tech: "JavaScript, Node.js, HTML, CSS",
+      highlight: "Turismo BH",
+      tech: "JavaScript, Node.js, HTML, CSS, Mapbox",
       github: "https://github.com/smaatheus/trabalho-pratico2.git",
       demo: "#",
     },

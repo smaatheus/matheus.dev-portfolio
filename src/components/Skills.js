@@ -1,15 +1,14 @@
 function Skills() {
   const skills = [
+    "React",
+    "Next",
     "JavaScript",
     "NodeJs",
-    "React",
-    "NextJs",
+    "C#",
     "HTML",
     "CSS",
     "Git",
     "GitHub",
-    "API REST",
-    "Responsividade",
   ];
 
   return (
